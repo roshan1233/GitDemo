@@ -1,0 +1,10 @@
+
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="day21.Demo1"/>
+      <class name="day21.Demo3"/>
+      <class name="day21.Demo2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,13 @@
+<suite name="Suite">
+  <test name="Test">
+  <groups>
+  	<run>
+  	<include name="user"/>
+  	<include name="smoke"/>
+  	</run>
+  </groups>
+    <classes>
+      <class name="day24.Demo7"/>
+    </classes>
+  </test> 
+</suite> 
