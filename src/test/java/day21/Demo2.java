@@ -12,6 +12,7 @@ public class Demo2 {
 		Reporter.log("Test2*****");//print only  in html report
 		Reporter.log("Test2%%%%",false);//print only in html 
 		Reporter.log("Test2$$$$",true);//print in html and console
+		System.out.println("Demo10");
 	}
 
 }
