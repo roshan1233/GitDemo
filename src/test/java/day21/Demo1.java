@@ -18,12 +18,11 @@ public class Demo1 {
 		System.out.println("Demo4");
 		System.out.println("Demo5");
 		System.out.println("Demo6");
-<<<<<<< HEAD
+
 		
 		System.out.println("Demo20");
-=======
+
 		System.out.println("Demo7");
 		System.out.println("Demo8");
->>>>>>> a21faef15fcf7f699db4a8a62ebebeacecfe690a
 	}
 }
